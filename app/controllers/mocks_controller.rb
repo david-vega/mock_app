@@ -1,0 +1,3 @@
+class MocksController < ApplicationController
+
+end
